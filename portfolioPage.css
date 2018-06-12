@@ -8,6 +8,12 @@ body {
 }
 .accomplishments {
     color: black;
+    margin: 100px auto 0 auto;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font: 21px "museo-slab-1", "museo-slab-2", "Georgia", serif;
+    letter-spacing: 2px;
 }
 .portfolioTouch{
     color: black;
