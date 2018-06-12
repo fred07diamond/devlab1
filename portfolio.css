@@ -1,0 +1,39 @@
+.row{   
+    margin: 100px auto 0 auto;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font: 21px "museo-slab-1", "museo-slab-2", "Georgia", serif;
+    letter-spacing: 2px;
+}
+.headshot{
+    width:50%;
+    margin: 2px; 
+    text-align: center; 
+   
+}
+p:hover{
+    color: red; 
+    cursor: pointer;
+    }
+.mid {
+    display: flex;
+    align-items:center;
+    font-size:30px;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left: 80px; 
+    max-width: 30%;
+    font-family:"museo-slab-1", "museo-slab-2", "Georgia", serif;
+    text-align: center; 
+}
+
+body {
+    background-color:#FFF8F6; 
+}
+.titleRow {
+    text-align: center
+    
+}
+
+

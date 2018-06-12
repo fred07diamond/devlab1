@@ -1,0 +1,15 @@
+body {
+    background-color: #FFF8F6;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: "museo-slab-1", "museo-slab-2", "Georgia", serif;
+}
+.accomplishments {
+    color: black;
+}
+.portfolioTouch{
+    color: black;
+    
+}
